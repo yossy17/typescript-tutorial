@@ -3,7 +3,7 @@ import typescriptLogo from "./typescript.svg";
 import viteLogo from "/vite.svg";
 import { tutorial } from "./tutorial.ts";
 import tutorialCode from "./tutorial.ts?raw";
-import hljs from "highlight.js/lib/core";
+import hljs from "highlight.js";
 import typescript from "highlight.js/lib/languages/typescript";
 import "highlight.js/styles/atom-one-dark.min.css";
 
